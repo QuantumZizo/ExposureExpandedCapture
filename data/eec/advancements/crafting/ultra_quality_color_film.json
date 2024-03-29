@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "requirement": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "eec:ultra_quality_color_film"
+            }
+        }
+    },
+    "rewards": {
+        "function": "eec:recipes/ultra_quality_color_film"
+    }
+}

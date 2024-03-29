@@ -3,11 +3,11 @@
         "requirement": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipe": "eec:cheap_black_and_white_film"
+                "recipe": "eec:high_quality_color_film"
             }
         }
     },
     "rewards": {
-        "function": "eec:recipes/cheap_black_and_white_film"
+        "function": "eec:recipes/high_quality_color_film"
     }
 }
