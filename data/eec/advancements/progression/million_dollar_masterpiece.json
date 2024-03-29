@@ -1,0 +1,27 @@
+{
+    "display": {
+        "title": {
+            "text": "Million Dollar Masterpiece"
+        },
+        "description": {
+            "text": "Create an ultra quality film; a museum owner would kill to have the final product.",
+            "color": "dark_purple"
+        },
+        "icon": {
+            "item": "exposure:color_film"
+        },
+        "frame": "challenge",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": true
+    },
+    "criteria": {
+        "requirement": {
+            "trigger": "minecraft:recipe_crafted",
+            "conditions": {
+                "recipe_id": "eec:ultra_quality_color_film"
+            }
+        }
+    },
+    "parent": "exposure:adventure/get_photograph"
+}
