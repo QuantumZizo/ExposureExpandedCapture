@@ -1,9 +1,9 @@
 {
     "criteria": {
         "requirement": {
-            "trigger": "minecraft:recipe_unlocked",
+            "trigger": "minecraft:recipe_crafted",
             "conditions": {
-                "recipe": "eec:high_quality_color_film"
+                "recipe_id": "eec:high_quality_color_film"
             }
         }
     },

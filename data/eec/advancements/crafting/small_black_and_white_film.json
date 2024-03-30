@@ -1,9 +1,9 @@
 {
     "criteria": {
         "requirement": {
-            "trigger": "minecraft:recipe_unlocked",
+            "trigger": "minecraft:recipe_crafted",
             "conditions": {
-                "recipe": "eec:small_black_and_white_film"
+                "recipe_id": "eec:small_black_and_white_film"
             }
         }
     },
