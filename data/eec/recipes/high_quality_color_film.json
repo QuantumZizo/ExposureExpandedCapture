@@ -1,24 +1,24 @@
 {
     "type": "minecraft:crafting_shaped",
     "pattern": [
-        "#LL",
-        "iDD",
-        "iQQ"
+        "#DD",
+        "iGG",
+        "iXX"
     ],
     "key": {
         "#": {
             "item": "minecraft:iron_nugget"
         },
-        "L": {
-            "item": "minecraft:lapis_lazuli"
+        "D": {
+            "item": "minecraft:diamond"
         },
         "i": {
             "item": "minecraft:iron_ingot"
         },
-        "D": {
-            "item": "minecraft:diamond"
+        "G": {
+            "item": "minecraft:gold_nugget"
         },
-        "Q": {
+        "X": {
             "item": "minecraft:dried_kelp"
         }
     },
